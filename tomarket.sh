@@ -40,7 +40,7 @@ app() {
         echo "Starting..."
         node $(pwd)/index.js
     else
-        git clone https://github.com/decryptable/tomarket tomarket-tool &>/dev/null
+        git clone https://github.com/imsahilansarii/tomarket tomarket-tool &>/dev/null
         cd tomarket-tool
         
         echo "Installing dependencies..."
