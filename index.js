@@ -23,7 +23,7 @@ const showBanner = () => {
   const header = chalk.magentaBright.bold(program_name);
 
   let subheader =
-    chalk.yellow.bold("Author: ") + chalk.magenta.underline("@decryptable\n");
+    chalk.yellow.bold("Author: ") + chalk.magenta.underline("@Airdrop_hunts7\n");
 
   subheader +=
     chalk.yellow.bold("Version: ") + chalk.yellowBright(`${version}\n`);
